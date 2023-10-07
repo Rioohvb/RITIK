@@ -9,7 +9,7 @@ except ImportError:
 
 	os.system('pip install requests')
    
-  try:
+  
 
 
 	import concurrent.futures
